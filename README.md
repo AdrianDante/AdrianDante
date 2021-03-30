@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi, welcome! 👋
 
-Soy Full Stack Web Developer
-Actualmente estoy enfocado en el mundo del desarrollo web con React.
+I am a full-stack developer focused mostly on enlarging my front-end skills and sprouting new experiences.
+
+🛠️ Tools:
+  JS - HTML - CSS  - REACT - REACT NATIVE - EXPO - REDUX - SQL - EXPRESS
+  
+  I am an enthusiast for functionality solving.
+  
+
 <!--
 **AdrianDante/AdrianDante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
