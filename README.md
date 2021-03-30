@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Soy Full Stack Web Developer
+Actualmente estoy enfocado en el mundo del desarrollo web con React.
 <!--
 **AdrianDante/AdrianDante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
